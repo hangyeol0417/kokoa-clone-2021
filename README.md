@@ -1,3 +1,3 @@
-# Kokoa Clone 2021 Participate in the challenge
+# Kokoa Clone 2021 in the challenge
 
-CSS got so much better!
+HTML & CSS are so much fun!
