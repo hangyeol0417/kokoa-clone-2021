@@ -215,6 +215,6 @@
 .message__noti {
   color: var(--yellow);
   position: absolute;
-  top: 310px;
-  right: 49px;
+  top: 325px;
+  right: 48px;
 }
